@@ -3,7 +3,7 @@
 ## About Me
 Hey there, I'm Omer Siddiqui, a cybersecurity enthusiast who's passionate about learning and exploring the ever-evolving world of cybersecurity. My interests span across various domains, including DevSecOps, Python, Bash scripting, Docker, Kubernetes, AWS, and Purple Teaming.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/omer.sidd94.png)](https://tryhackme.com/p/omer.sidd94)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/omer.sidd94.png)](https://tryhackme.com/p/omer.sidd94)
 [LinkedIn Profile](https://www.linkedin.com/in/omer-siddiqui-5b1a9020a/)
 
 ## My Learning Journey
